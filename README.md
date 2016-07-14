@@ -1,4 +1,0 @@
-# HelloWorld
-myTutorialRepository
-
-ebbene si 
